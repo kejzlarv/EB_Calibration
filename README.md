@@ -9,7 +9,7 @@ The supplementary results for the sensitivity study are available upon request a
 2. [LDM](LDM.ipynb) - Self-sufficient notebok with implementation of both EB and MCMC based calibration of the Liquid Drop Model of nuclear binding energies.
 
 ## Content of supplementary files:
-1. [AME2003 dataset](mass.mass03) - Raw dataset of experimental binding energies
+1. [AME2003 dataset](mass.mas03) - Raw dataset of experimental binding energies
 2. [Even-Even nuclei from AME2003 dataset](BE_even_Z_even_N.csv) - Subset of AME2003 dataset used for the calibration of LDM
 3. [AME2003 testing data](AME2003_test.pkl) - Testing dataset of Even-Even nuclei
 4. [AME2003 training data](AME2003_train.pkl) - Training dataset of Even-Even nuclei
